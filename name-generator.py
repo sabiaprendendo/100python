@@ -1,0 +1,5 @@
+print("Welcome to the Whatever-You-Want-To Name Generator!")
+city = input("Which city did you grow up in?\n")
+pet = input ("What is the name of your pet?\n")
+food = input ("What was the last food you ate?\n")
+print ("Your Whatever-You-Want-To-Name could be " + city + " " + pet + " " + food)
