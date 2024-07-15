@@ -43,8 +43,6 @@ if choice1 == "blue":
       print("You found the exit! The grass is green and the sky is blue! You Win! Congratulations! But be more careful next time.")
     elif choice3 == "star":
       print("You got eaten by a huge octopus. Game Over. Better luck next time.")
-    
-    
   else:
     print("You got attacked by sharks. Game Over. Better luck next time.")
 else:
